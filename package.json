@@ -2,13 +2,30 @@
   "name": "froggies-theme",
   "displayName": "Froggies theme",
   "description": "Theme inspired by tree frogs",
+  "publisher": "lindxz",
+  "author": {
+      "name": "Linda Hovila"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.81.0"
   },
   "icon": "icons/froggies.png",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/linda-jh/froggies-theme"
+  },
+  "bugs": {
+      "url": "https://github.com/linda-jh/froggies-theme/issues"
+  },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+      "Dark Theme",
+      "dark",
+      "green",
+      "frog"
   ],
   "contributes": {
     "themes": [
