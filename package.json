@@ -1,0 +1,21 @@
+{
+  "name": "froggies-theme",
+  "displayName": "Froggies theme",
+  "description": "Theme inspired by red-eyed tree frogs",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Froggies theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Froggies theme-color-theme.json"
+      }
+    ]
+  }
+}
